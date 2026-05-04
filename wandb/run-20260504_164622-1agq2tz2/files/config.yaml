@@ -1,0 +1,89 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            spa3trqwcdir52szloujgtawzqfexmci:
+                codePath: c:\Users\SOLTEC\glass-ml-project\notebook.ipynb
+                codePathLocal: notebook.ipynb
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "424649158656"
+                        used: "340566904832"
+                email: uchoastudies@gmail.com
+                executable: c:\Users\SOLTEC\glass-ml-project\.venv\Scripts\python.exe
+                git:
+                    commit: 0a88fa6714c8bd27d7e836a3e796743173ed5c91
+                    remote: https://github.com/GabrielUchoa17/glass-ml-project.git
+                gpu: NVIDIA GeForce GTX 1650
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 896
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce GTX 1650
+                      uuid: GPU-ecacd01e-eb12-2e6b-9ca7-fb1c7223c434
+                host: DESKTOP-4V5UF0R
+                memory:
+                    total: "17040064512"
+                os: Windows-10-10.0.26200-SP0
+                program: c:\Users\SOLTEC\glass-ml-project\notebook.ipynb
+                python: CPython 3.11.9
+                root: c:\Users\SOLTEC\glass-ml-project
+                startedAt: "2026-05-04T19:46:22.197177Z"
+                writerId: spa3trqwcdir52szloujgtawzqfexmci
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 62
+            "4": 3.11.9
+            "5": 0.26.1
+            "8":
+                - 1
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64
+activation:
+    value: relu
+batch_size:
+    value: 16
+dataset:
+    value: uciml/glass
+dropout:
+    value: 0
+epochs:
+    value: 100
+hidden_layers:
+    value:
+        - 16
+        - 8
+learning_rate:
+    value: 0.001
+project_name:
+    value: glass-ml-project
+random_state:
+    value: 42
+selected_features:
+    value:
+        - Mg
+        - Al
+        - RI
+        - K
+        - Ca
+        - Na
+target:
+    value: Type
+test_size:
+    value: 0.2

@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-10-10.0.26200-SP0",
+  "python":  "CPython 3.11.9",
+  "startedAt":  "2026-05-04T19:57:03.491592Z",
+  "program":  "c:\\Users\\SOLTEC\\glass-ml-project\\notebook.ipynb",
+  "codePath":  "c:\\Users\\SOLTEC\\glass-ml-project\\notebook.ipynb",
+  "codePathLocal":  "notebook.ipynb",
+  "git":  {
+    "remote":  "https://github.com/GabrielUchoa17/glass-ml-project.git",
+    "commit":  "0a88fa6714c8bd27d7e836a3e796743173ed5c91"
+  },
+  "email":  "uchoastudies@gmail.com",
+  "root":  "c:\\Users\\SOLTEC\\glass-ml-project",
+  "host":  "DESKTOP-4V5UF0R",
+  "executable":  "c:\\Users\\SOLTEC\\glass-ml-project\\.venv\\Scripts\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce GTX 1650",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "424649158656",
+      "used":  "340569411584"
+    }
+  },
+  "memory":  {
+    "total":  "17040064512"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  896,
+      "architecture":  "Turing",
+      "uuid":  "GPU-ecacd01e-eb12-2e6b-9ca7-fb1c7223c434"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "fgelx2x6zknq094tyl5iishwvypjfizp"
+}
